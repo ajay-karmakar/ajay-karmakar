@@ -11,9 +11,9 @@
 
 <img src="https://raw.githubusercontent.com/ajay-karmakar/ajay-karmakar/refs/heads/main/alt-top.webp"/>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sMHUwM2RuMDZ6cGV1ZzN4OHN6MDEzOHpidHJlbnp5OGw1M3d4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LqOu4R3PpmL0nsG7MI/giphy.webp" alt="screen" height="50" width="50" /> **‎ Programming Languages**
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sMHUwM2RuMDZ6cGV1ZzN4OHN6MDEzOHpidHJlbnp5OGw1M3d4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LqOu4R3PpmL0nsG7MI/giphy.webp" alt="screen" height="50" width="50" /> **‎ Programming Languages and Tools**
 
-![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PYTHON](https://www.svgrepo.com/show/376344/python.svg?size=40)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
