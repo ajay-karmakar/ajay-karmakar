@@ -3,7 +3,9 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="moving" height="50" width="50"/> **‎ About Me**
 
-*B.Tech.(CS) Undergrad from India, interested in Artificial Intelligence 🤖, Machine Learning 🖥️, Data Science 📑, Software Engineering 🧑‍💻 & Music Production 🎧*
+*B.Tech.(CS) Undergrad from India, interested in Artificial Intelligence 🤖, Machine Learning 🖥️, Data Science 📑, Software Engineering 🧑‍💻 & Music Production 🎧* <br>
+
+***Check out** [my website](https://ajay-karmakar.vercel.app)*
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-karmakar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="ajay-karmakar's GitHub Stats" />
 
